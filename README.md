@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feroake
 - 👀 I’m interested in Basketball
-- 🌱 I’m currently learning Japanese and Lua, C#, Javascript
+- 🌱 I’m currently learning Japanese and C++ and python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
